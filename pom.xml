@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	<name>apexes-root</name>
 	<description>Apexes Root</description>
-	<url>http://git.oschina.net/apexes/</url>
+	<url>http://github.com/hedyn/apexes-root</url>
 
 	<licenses>
 		<license>
@@ -24,9 +24,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@git.oschina.net:apexes/apexes-root.git</connection>
-		<developerConnection>scm:git:git@git.oschina.net:apexes/apexes-root.git</developerConnection>
-		<url>git@git.oschina.net:apexes/apexes-root.git</url>
+		<connection>scm:git:git@github.com:hedyn/apexes-root.git</connection>
+		<developerConnection>scm:git:git@github.com:hedyn/apexes-root.git</developerConnection>
+		<url>https://github.com/hedyn/apexes-root</url>
 	</scm>
 
 	<properties>
